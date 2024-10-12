@@ -18,3 +18,6 @@ I enjoy coding, metal music, and I'm starting out on a digital art hobby. I like
 Besides GitHub, I have a [LinkedIn](www.linkedin.com/in/samson-hart-b69828226) page where I follow various game development studios
 
 ## My work
+
+### Badges
+![CW Techsters Stage 1 Coding Badge](https://github.com/tofuprogrammer/tofuprogrammer/blob/fab216da232420d4a575aeee64e3ed5696eb0f67/Credly%20badges/CW%20Techsters/Stage%201/cw-techsters-programme-participant-stage-1-explore-coding.png "Stage 1 Coding Badge")
