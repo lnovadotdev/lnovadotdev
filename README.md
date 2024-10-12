@@ -14,8 +14,7 @@ I focus on writing C++ and prefer to use JetBrains Rider. I currently use Window
 ### My hobbies and interests
 I enjoy coding, metal music, and I'm starting out on a digital art hobby. I like all animals, especially snakes 🐍
 
-## My work
+### My public links
+Besides GitHub, I have a [LinkedIn](www.linkedin.com/in/samson-hart-b69828226) page where I follow various game development studios
 
-### My previous experience
-I have experience with Python from a GCSE in Computer Science and I used to dabble in HTML though I haven't touched either in a while.
-### Badges
+## My work
