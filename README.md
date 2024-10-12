@@ -20,4 +20,4 @@ Besides GitHub, I have a [LinkedIn](www.linkedin.com/in/samson-hart-b69828226) p
 ## My work
 
 ### Badges
-![CW Techsters Stage 1 Coding Badge](https://github.com/tofuprogrammer/tofuprogrammer/blob/fab216da232420d4a575aeee64e3ed5696eb0f67/Credly%20badges/CW%20Techsters/Stage%201/cw-techsters-programme-participant-stage-1-explore-coding.png "Stage 1 Coding Badge")
+![CW Techsters Stage 1 Coding Badge](https://github.com/tofuprogrammer/tofuprogrammer/blob/fab216da232420d4a575aeee64e3ed5696eb0f67/Credly%20badges/CW%20Techsters/Stage%201/cw-techsters-programme-participant-stage-1-explore-coding.png "Coding Badge") ![CW Techsters Stage 1 IoT Badge](https://github.com/tofuprogrammer/tofuprogrammer/blob/cd7893bf751e5dc48f9ae9bb4958fdfe4863ca29/Credly%20badges/CW%20Techsters/Stage%201/cw-techsters-programme-participant-stage-1-explore-iot-internet-of-things.png "IoT Badge") ![CW Techsters Stage 1 Sustainability Badge](https://github.com/tofuprogrammer/tofuprogrammer/blob/cd7893bf751e5dc48f9ae9bb4958fdfe4863ca29/Credly%20badges/CW%20Techsters/Stage%201/cw-techsters-programme-participant-stage-1-explore-sustainability.png "Sustainability Badge")
