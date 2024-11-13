@@ -15,7 +15,7 @@ I focus on writing C++ and prefer to use Xcode. I also use JetBrains Rider when 
 I enjoy coding, metal music, and I'm starting out on a digital art hobby. I like all animals, especially snakes 🐍
 
 ### My public links
-Besides GitHub, I have a [LinkedIn](www.linkedin.com/in/samson-hart-b69828226) page where I follow various game development studios and my [personal portfolio website](www.samhart.co.uk). Check it out! 🎮
+Besides GitHub, I have a [LinkedIn](https://www.linkedin.com/in/samson-hart-b69828226) page where I follow various game development studios and my [personal portfolio website](https://samhart.co.uk). Check it out! 🎮
 
 ## My work
 
