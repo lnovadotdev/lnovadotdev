@@ -3,7 +3,7 @@
 ## About me
 
 ### Me as a person
-I'm agender, aroace, and I don't use pronouns 🏳️‍🌈
+I'm agender, aroace, and I don't use pronouns (they/them is fine if you can't deal with the extra grammar rules) 🏳️‍🌈
 
 ### Where I am now
 I'm a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future 📔
