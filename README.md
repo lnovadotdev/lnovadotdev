@@ -8,8 +8,8 @@ I'm agender, aroace, and I don't use pronouns (they/them is fine if you can't de
 ### Where I am now
 I'm a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future 📔
 
-### My favourite tools
-I focus on writing C++ and prefer to use Xcode. I also use JetBrains Rider when the project has to be formatted in the same way as Visual Studio. I currently use macOS Sequoia as my work OS. 🧑‍💻
+### My preferred tools
+I prefer to use Xcode where possible and the JetBrains suite where Xcode does not include support for the required language. 🧑‍💻
 
 ### My hobbies and interests
 I enjoy coding, metal music (especially thrash metal), and I'm starting out on a digital art hobby. I like all animals, especially snakes 🐍
