@@ -3,10 +3,10 @@
 ## About me
 
 ### Me as a person
-I'm agender, aroace, and I don't use pronouns (they/them is fine if you can't deal with the extra grammar rules) 🏳️‍🌈
+I'm agender, aroace, and I don't use pronouns (they/them is fine in situations where that's awkward to say). 🏳️‍🌈
 
 ### Where I am now
-I'm a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future 📔
+I'm a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔
 
 ### My preferred tools
 I primarily use Xcode for C++ however I also have experience with JetBrains IDEs, particularly Rider, and have used Visual Studio in the past. 🧑‍💻
