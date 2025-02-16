@@ -12,6 +12,7 @@
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tofuprogrammer&amp;show_icons=true&amp;theme=ambient_gradient&amp;hide_border=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;number_format=long&amp;rank_icon=percentile" alt="My GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5" alt="Top Langs"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true" alt="My WakaTime stats"></a></p>
 </div>
 
+<div align="center>
 <h2 id="about-me">About me</h2>
 <h3 id="me-as-a-person">Me as a person</h3>
 <p>I&#39;m agender, aroace, and I don&#39;t use pronouns (they/them is fine in situations where that&#39;s awkward to say). 🏳️‍🌈</p>
@@ -26,6 +27,7 @@
 <h2 id="my-work">My work</h2>
 <h3 id="cw-techsters">CW Techsters</h3>
 <p>I completed a multi-week course with CW Techsters in which I learned a multitude of digital skills while forming strong industry connections. Stage 1 was completed online, stage 2 began in person before transitioning online and concluded with stage 3 in person three weeks later 💡</p>
+</div>
 
 ### Badges
 ### Stage 1
