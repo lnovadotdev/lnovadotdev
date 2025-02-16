@@ -50,5 +50,6 @@
 <p>For making the typing effect you saw at the top of the README, as well as the streak stats widget.</p>
 <h3 id="-anurag-hazra-anuraghazra-https-github-com-anuraghazra-"><a href="https://github.com/anuraghazra">Anurag Hazra (@anuraghazra)</a></h3>
 <p>For making all the other stats widgets.
+
 You&#39;re all amazing people and I can&#39;t thank you enough.</p>
 </div>
