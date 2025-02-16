@@ -12,27 +12,20 @@
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tofuprogrammer&amp;show_icons=true&amp;theme=ambient_gradient&amp;hide_border=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;number_format=long&amp;rank_icon=percentile" alt="My GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5" alt="Top Langs"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true" alt="My WakaTime stats"></a></p>
 </div>
 
-## About me
-
-### Me as a person
-I'm agender, aroace, and I don't use pronouns (they/them is fine in situations where that's awkward to say). 🏳️‍🌈
-
-### Where I am now
-I'm a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔
-
-### My preferred tools
-I primarily use Xcode for C++ however I also have experience with JetBrains IDEs, particularly Rider, and have used Visual Studio in the past. 🧑‍💻
-
-### My hobbies and interests
-I enjoy coding, metal music, and I'm starting out on a digital art hobby. I like all animals, especially snakes 🐍
-
-### My links and how to contact me
-If you need to contact me, you can use my [email](mailto:sam@samhart.co.uk) or you can send me a message on [LinkedIn](https://www.linkedin.com/in/samson-hart-b69828226) where I follow various game development studios and post about my adventure learning to develop games and more. I also have a [portfolio website](https://samhart.co.uk) which you can use to see my work. Check it out! 🎮
-
-## My work
-
-### CW Techsters
-I completed a multi-week course with CW Techsters in which I learned a multitude of digital skills while forming strong industry connections. Stage 1 was completed online, stage 2 began in person before transitioning online and concluded with stage 3 in person three weeks later 💡
+<h2 id="about-me">About me</h2>
+<h3 id="me-as-a-person">Me as a person</h3>
+<p>I&#39;m agender, aroace, and I don&#39;t use pronouns (they/them is fine in situations where that&#39;s awkward to say). 🏳️‍🌈</p>
+<h3 id="where-i-am-now">Where I am now</h3>
+<p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
+<h3 id="my-preferred-tools">My preferred tools</h3>
+<p>I primarily use Xcode for C++ however I also have experience with JetBrains IDEs, particularly Rider, and have used Visual Studio in the past. 🧑‍💻</p>
+<h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
+<p>I enjoy coding, metal music, and I&#39;m starting out on a digital art hobby. I like all animals, especially snakes 🐍</p>
+<h3 id="my-links-and-how-to-contact-me">My links and how to contact me</h3>
+<p>If you need to contact me, you can use my <a href="mailto:sam@samhart.co.uk">email</a> or you can send me a message on <a href="https://www.linkedin.com/in/samson-hart-b69828226">LinkedIn</a> where I follow various game development studios and post about my adventure learning to develop games and more. I also have a <a href="https://samhart.co.uk">portfolio website</a> which you can use to see my work. Check it out! 🎮</p>
+<h2 id="my-work">My work</h2>
+<h3 id="cw-techsters">CW Techsters</h3>
+<p>I completed a multi-week course with CW Techsters in which I learned a multitude of digital skills while forming strong industry connections. Stage 1 was completed online, stage 2 began in person before transitioning online and concluded with stage 3 in person three weeks later 💡</p>
 
 ### Badges
 ### Stage 1
