@@ -17,7 +17,7 @@ I primarily use Xcode for C++ however I also have experience with JetBrains IDEs
 I enjoy coding, metal music, and I'm starting out on a digital art hobby. I like all animals, especially snakes 🐍
 
 ### My links and how to contact me
-If you need to contact me, you can use my [email](mailto:sam@samhart.co.uk) or you can send me a message on [LinkedIn](https://www.linkedin.com/in/samson-hart-b69828226) where I follow various game development studios and post about my adventure learning to develop games and more. I also have a [portfolio website](https://samhart.co.uk) (currently offline) which you can use to see my work. Check it out! 🎮
+If you need to contact me, you can use my [email](mailto:sam@samhart.co.uk) or you can send me a message on [LinkedIn](https://www.linkedin.com/in/samson-hart-b69828226) where I follow various game development studios and post about my adventure learning to develop games and more. I also have a [portfolio website](https://samhart.co.uk) which you can use to see my work. Check it out! 🎮
 
 ## My work
 
