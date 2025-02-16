@@ -1,7 +1,7 @@
 # Hi, I'm Sam 👋
 ![GitHub Statistics](https://raw.githubusercontent.com/tofuprogrammer/readme-stats/master/generated/overview.svg)
 ![GitHub Languages](https://raw.githubusercontent.com/tofuprogrammer/readme-stats/master/generated/languages.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tofuprogrammer&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=transparent&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ## About me
 
 ### Me as a person
