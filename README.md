@@ -2,7 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible+Mono&size=24&duration=1500&pause=500&color=5595DD&center=true&vCenter=true&multiline=true&repeat=false&width=740&height=110&lines=Hi%2C+I%E2%80%99m+Sam!+%F0%9F%91%8B;Welcome+to+my+little+slice+of+GitHub!+%F0%9F%98%81;I+hope+you+like+it+here.+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </div>
 
-[![My GitHub streak](https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img width="400" src="[https://github-readme-streak-stats-eight.vercel.app/?user=DragunWF&theme=merko](https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D)" alt="My GitHub streak" />
+  </a>
+</div>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tofuprogrammer&show_icons=true&theme=ambient_gradient&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofuprogrammer&theme=ambient_gradient&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tofuprogrammer&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
