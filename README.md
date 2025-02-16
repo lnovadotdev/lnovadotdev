@@ -40,3 +40,15 @@
 <h3 id="completion">Completion</h3>
 <p><img src="https://github.com/tofuprogrammer/tofuprogrammer/blob/6b8ef7edc4ecc4ce12bed29c876cc0e38b2feb66/Credly%20badges/CW%20Techsters/Completion/cw-techsters-completion-of-programme.png" alt="CW Techsters Programme Completion Badge" title="Programme Workshop Badge"></p>
 </div>
+
+<div align="center">
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>Thanks to all the wonderful people below who made this README possible.</p>
+<h3 id="-github-https-github-com-github-"><a href="https://github.com/github">GitHub</a></h3>
+<p>For making, well, GitHub.</p>
+<h3 id="-jonah-lawrence-denvercoder1-https-github-com-denvercoder1-"><a href="https://github.com/DenverCoder1">Jonah Lawrence (@DenverCoder1)</a></h3>
+<p>For making the typing effect you saw at the top of the README, as well as the streak stats widget.</p>
+<h3 id="-anurag-hazra-anuraghazra-https-github-com-anuraghazra-"><a href="https://github.com/anuraghazra">Anurag Hazra (@anuraghazra)</a></h3>
+<p>For making all the other stats widgets.
+You&#39;re all amazing people and I can&#39;t thank you enough.</p>
+</div>
