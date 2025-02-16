@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img width="400" src="[https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D]" alt="My GitHub streak" />
+    <img width="400" src="https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub streak" />
   </a>
 </div>
 
