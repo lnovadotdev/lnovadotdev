@@ -8,7 +8,9 @@
   </a>
 </div>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tofuprogrammer&show_icons=true&theme=ambient_gradient&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofuprogrammer&theme=ambient_gradient&hide_border=true&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats) [![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tofuprogrammer&theme=ambient_gradient&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tofuprogrammer&amp;show_icons=true&amp;theme=ambient_gradient&amp;hide_border=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;number_format=long&amp;rank_icon=percentile" alt="My GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5" alt="Top Langs"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true" alt="My WakaTime stats"></a></p>
+</div>
 
 ## About me
 
