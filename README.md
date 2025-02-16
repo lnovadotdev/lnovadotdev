@@ -1,7 +1,7 @@
 # Hi, I'm Sam 👋
 [![My GitHub streak](https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![](https://raw.githubusercontent.com/tofuprogrammer/github-stats/master/generated/overview.svg)](https://github.com/jstrieb/github-stats) [![](https://raw.githubusercontent.com/tofuprogrammer/github-stats/master/generated/languages.svg)](https://github.com/jstrieb/github-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=tofuprogrammer&show_icons=true&theme=ambient_gradient&hide_border=true&show=prs_merged,prs_merged_percentage&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 ## About me
 
 ### Me as a person
