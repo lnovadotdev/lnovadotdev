@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Sam 👋</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible+Mono&size=24&duration=3000&pause=1000&color=CC58BC&center=true&vCenter=true&multiline=true&width=740&height=70&lines=Welcome+to+my+little+slice+of+GitHub+(%2C%2C+%EF%BD%A5%E2%88%80%EF%BD%A5)%EF%BE%89%E3%82%9B;I+hope+you+like+it+here+%5E_%5E)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Atkinson+Hyperlegible+Mono&size=24&duration=1500&pause=1000&color=CC58BC&center=true&vCenter=true&multiline=true&repeat=false&width=740&height=110&lines=Hi%2C+I%E2%80%99m+Sam!+%F0%9F%91%8B;Welcome+to+my+little+slice+of+GitHub!+(%2C%2C+%EF%BD%A5%E2%88%80%EF%BD%A5)%EF%BE%89%E3%82%9B;I+hope+you+like+it+here+%5E_%5E" alt="Typing SVG" /></a>
 
 [![My GitHub streak](https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
