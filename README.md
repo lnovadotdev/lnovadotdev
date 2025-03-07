@@ -19,7 +19,7 @@
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-preferred-tools">My preferred tools</h3>
-<p>I primarily use Xcode for C++ however I also have experience with JetBrains IDEs, particularly Rider, and have used Visual Studio in the past. 🧑‍💻</p>
+<p>I primarily use Xcode for C++ however I also have experience with JetBrains IDEs, particularly Rider, and occasionally use Visual Studio in a Parallels VM when required. 🧑‍💻</p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
 <p>I enjoy coding, metal music, and I&#39;m starting out on a digital art hobby. I like all animals, especially snakes 🐍</p>
 <h3 id="my-links-and-how-to-contact-me">My links and how to contact me</h3>
