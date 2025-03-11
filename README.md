@@ -22,7 +22,7 @@
 <h3 id="my-tools">My tools and skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,cpp,git,github,rider,unity,unreal,visualstudio,windows" />
+    <img src="https://skillicons.dev/icons?i=apple,cpp,cs,git,github,rider,unity,unreal,visualstudio,windows" />
   </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
