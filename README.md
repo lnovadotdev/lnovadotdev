@@ -21,8 +21,7 @@
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-tools">My tools and skills</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills-icons.vercel.app/api/icons?i=apple,cpp,csharp,git,github,macos,rider,unity,unrealengine,visualstudio,windows,xcode" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=apple,cpp,csharp,git,github,macos,rider,unity,unrealengine,visualstudio,windows,xcode" />
   </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
