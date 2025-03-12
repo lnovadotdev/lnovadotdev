@@ -14,9 +14,11 @@
 
 <div align="center">
 <h2 id="about-me">About me</h2>
-
-<h3 id="me-as-a-person">Me as a person</h3>
-<p>I&#39;m agender, aroace, and I don&#39;t use pronouns (they/them is fine in situations where that&#39;s awkward to say). 🏳️‍🌈</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tofuprogrammer/tofuprogrammer/blob/40e915dd51b518f2b510fa9214eac274d0f57fba/Pronouns/tofupronouns-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tofuprogrammer/tofuprogrammer/blob/40e915dd51b518f2b510fa9214eac274d0f57fba/Pronouns/tofupronouns-light.png">
+  <img alt="How to refer to me" src="https://github.com/tofuprogrammer/tofuprogrammer/blob/40e915dd51b518f2b510fa9214eac274d0f57fba/Pronouns/tofupronouns-light.png">
+</picture>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-tools">My tools and skills</h3>
