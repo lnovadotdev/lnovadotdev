@@ -14,7 +14,9 @@
 
 <div align="center">
 <h2 id="about-me">About me</h2>
-<h3 id="my-pronouns-and-more"><a href="&lt;a href=&quot;https://prns.cc/dqesx&quot;&gt;" title="My pronouns and more">Check my pronouns and more here</a></h3>
+<h3 id="my-pronouns-and-more">
+  <a href="https://prns.cc/dqesx" title="My pronouns and more">Check my pronouns and more here</a>
+</h3>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-tools">My tools and skills</h3>
