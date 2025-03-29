@@ -25,12 +25,12 @@
   </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
-<p>I enjoy coding, metal music, and I&#39;m starting out on a digital art hobby. I like all animals, especially snakes 🐍</p>
+<p>I enjoy coding, metal music, and I&#39;m starting out on a digital art hobby. I like all animals, especially snakes. 🐍</p>
 <h3 id="my-links-and-how-to-contact-me">My links and how to contact me</h3>
 <p>If you need to contact me, you can use my <a href="mailto:sam@samhart.co.uk">email</a> or you can send me a message on <a href="https://www.linkedin.com/in/samson-hart-b69828226">LinkedIn</a> where I follow various game development studios and post about my adventure learning to develop games and more. I also have a <a href="https://samhart.co.uk">portfolio website</a> which you can use to see my work. Check it out! 🎮</p>
 <h2 id="my-work">My work</h2>
 <h3 id="cw-techsters">CW Techsters</h3>
-<p>I completed a multi-week course with CW Techsters in which I learned a multitude of digital skills while forming strong industry connections. Stage 1 was completed online, stage 2 began in person before transitioning online and concluded with stage 3 in person three weeks later 💡</p>
+<p>I completed a multi-week course with CW Techsters in which I learned a multitude of digital skills while forming strong industry connections. Stage 1 was completed online, stage 2 began in person before transitioning online and concluded with stage 3 in person three weeks later. 💡</p>
 </div>
 
 <div align="center">
