@@ -3,16 +3,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://readme-streak-stats-two.vercel.app/?user=tofuprogrammer&theme=ambient-gradient&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="My GitHub streak" />
-  </a>
-</div>
-
-<div align="center">
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=tofuprogrammer&amp;show_icons=true&amp;theme=ambient_gradient&amp;hide_border=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;number_format=long&amp;rank_icon=percentile" alt="My GitHub stats"></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofuprogrammer&amp;theme=ambient_gradient&amp;hide_border=true&amp;size_weight=0.5&amp;count_weight=0.5&amp;exclude_repo=readme-streak-stats" alt="Top Langs"></a></p>
-</div>
-
-<div align="center">
 <h2 id="about-me">About me</h2>
 <h3 id="my-pronouns-and-more">
   <a href="https://prns.cc/ktuuww" title="My pronouns and more">Check my pronouns and more here</a>
@@ -53,9 +43,7 @@
 <h3 id="-github-https-github-com-github-"><a href="https://github.com/github">GitHub</a></h3>
 <p>For making, well, GitHub.</p>
 <h3 id="-jonah-lawrence-denvercoder1-https-github-com-denvercoder1-"><a href="https://github.com/DenverCoder1">Jonah Lawrence (@DenverCoder1)</a></h3>
-<p>For making the typing effect you saw at the top of the README, as well as the streak stats widget.</p>
-<h3 id="-anurag-hazra-anuraghazra-https-github-com-anuraghazra-"><a href="https://github.com/anuraghazra">Anurag Hazra (@anuraghazra)</a></h3>
-<p>For making all the other stats widgets.
+<p>For making the typing effect at the top of the README.</p>
 
 You&#39;re all wonderful people and I can&#39;t thank you enough.</p>
 </div>
