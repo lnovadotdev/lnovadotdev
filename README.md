@@ -10,7 +10,9 @@
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-tools">All the apps, tools and skills I use for development</h3>
 <p align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=apple,cpp,csharp,edge,git,github,gitkraken,itchio,linkedin,macos,rider,safari,stackoverflow,unity,unrealengine,visualstudio,vscode,windows,xcode"/>
+  <a href="https://simpleicons.org">
+    <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,git,github,gitkraken,gitlab,macos,rider,stackoverflow,unrealengine" />
+  </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
 <p>I enjoy coding, metal music, and I&#39;m starting out on a digital art hobby. I like all animals, especially snakes. 🐍</p>
