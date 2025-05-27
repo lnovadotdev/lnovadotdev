@@ -10,7 +10,7 @@
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-tools">All the apps, tools and skills I use for development</h3>
 <p align="center">
-  <a href="#">
+  <a href="https://simpleicons.org">
     <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,git,github,gitkraken,gitlab,macos,rider,stackoverflow,unrealengine" />
   </a>
 </p>
