@@ -41,8 +41,6 @@
 <div align="center">
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>Thanks to all the wonderful people below who made this README possible.</p>
-<h3 id="-rythae-https-x-com-rytha_e-"><a href="https://x.com/rytha_e">Rythae</a></h3>
-<p>For making my beautiful avatar.</p>
 <h3 id="-github-https-github-com-github-"><a href="https://github.com/github">GitHub</a></h3>
 <p>For making, well, GitHub.</p>
 <h3 id="-jonah-lawrence-denvercoder1-https-github-com-denvercoder1-"><a href="https://github.com/DenverCoder1">Jonah Lawrence (@DenverCoder1)</a></h3>
