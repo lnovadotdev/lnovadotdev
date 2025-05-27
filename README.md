@@ -8,9 +8,9 @@
 </h3>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
-<h3 id="my-tools">My tools and skills</h3>
+<h3 id="my-tools">All the apps, tools and skills I use for development</h3>
 <p align="center">
-  <img src="https://skills-icons.vercel.app/api/icons?i=apple,cpp,csharp,git,github,macos,rider,unity,unrealengine,visualstudio,windows,xcode" />
+  <img src="https://skills-icons.vercel.app/api/icons?i=apple,cpp,csharp,edge,git,github,gitkraken,itchio,linkedin,macos,rider,safari,stackoverflow,unity,unrealengine,visualstudio,vscode,windows,xcode" />
   </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
