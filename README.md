@@ -46,5 +46,5 @@
 <h3 id="-jonah-lawrence-denvercoder1-https-github-com-denvercoder1-"><a href="https://github.com/DenverCoder1">Jonah Lawrence (@DenverCoder1)</a></h3>
 <p>For making the typing effect at the top of the README.</p>
 
-You&#39;re all wonderful people and I can&#39;t thank you enough.</p>
+<h3 id ="wonderful-people">You&#39;re all wonderful people and I can&#39;t thank you enough.</h3>
 </div>
