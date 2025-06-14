@@ -14,7 +14,7 @@
 <h3 id="my-tools">All the apps, tools and skills I use for development</h3>
 <p align="center">
   <a href="https://simpleicons.org">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,ecosia,git,github,gitkraken,gitlab,macos,rider,safari,stackoverflow,unrealengine" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,ecosia,git,github,gitkraken,gitlab,macos,rider,safari,stackoverflow,unrealengine,xcode" />
   </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
