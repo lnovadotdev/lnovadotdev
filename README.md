@@ -11,10 +11,10 @@
 </p>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
-<h3 id="my-tools">All the apps, tools and skills I use for development</h3>
+<h3 id="my-tools">My toolchain</h3>
 <p align="center">
   <a href="https://simpleicons.org">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,ecosia,git,github,gitkraken,gitlab,godotengine,macos,rider,safari,stackoverflow,unity,unrealengine,xcode&theme=dark" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=astro,cplusplus,git,github,gitkraken,macos,rider,tailwindcss,unity,unrealengine,webstorm,xcode&theme=dark" />
   </a>
 </p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
