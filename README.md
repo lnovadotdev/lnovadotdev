@@ -11,12 +11,6 @@
 </p>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
-<h3 id="my-tools">My toolchain</h3>
-<p align="center">
-  <a href="https://simpleicons.org">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=astro,cplusplus,git,github,gitkraken,macos,rider,tailwindcss,unity,unrealengine,webstorm,xcode&theme=dark" />
-  </a>
-</p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
 <p>I enjoy coding, metal music, and I&#39;m starting out on a digital art hobby. I like all animals, especially snakes. 🐍</p>
 <h3 id="my-links-and-how-to-contact-me">My links and how to contact me</h3>
