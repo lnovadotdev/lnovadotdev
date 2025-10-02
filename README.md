@@ -3,12 +3,6 @@
 </div>
 <div align="center">
 <h2 id="about-me">About me</h2>
-<h3 id="my-pronouns">My pronouns</h3>
-<p align="center">
-  <a href="https://en.pronouns.page/@samhart">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=pronounsdotpage" />
-  </a>
-</p>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
