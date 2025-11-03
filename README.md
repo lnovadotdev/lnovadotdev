@@ -3,6 +3,9 @@
 </div>
 <div align="center">
 <h2 id="about-me">About me</h2>
+<div align="center">
+<a href="https://pride-badges.pony.workers.dev"><img src="https://pride-badges.pony.workers.dev/static/v1?label=Sponsored+by+the+Trans+Agenda&labelColor=%23555&stripeWidth=6&stripeColors=5BCEFA%2CF5A9B8%2CFFFFFF%2CF5A9B8%2C5BCEFA" alt="Sponsored by the Trans Agenda" /></a>
+</div>
 <h3 id="where-i-am-now">Where I am now</h3>
 <p>I&#39;m a student at University of Staffordshire, currently studying Computer Games Programming and planning to complete a placement year in the future. 📔</p>
 <h3 id="my-hobbies-and-interests">My hobbies and interests</h3>
